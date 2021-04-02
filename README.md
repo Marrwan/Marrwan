@@ -1,17 +1,5 @@
 <img id="image" src="./cool-background.png">
-
-
-<style>
-
-#image{
-  width:100%,
-margin : 0,
-padding: 0
-}
-
-</style>
-
-<h2> Hey there! I'm Abdulbasit.</h2>
+<h1><center> Hey there! I'm Abdulbasit. <center></h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
