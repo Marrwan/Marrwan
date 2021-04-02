@@ -38,7 +38,7 @@
   <a href="mailto:abdulbasitdamilola6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/abdulbasitdamilola6@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/abuabdurahmaan/" target="_blank"><img src="https://img.shields.io/badge/-Abdulbasit-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/devabdul1" target="_blank"><img src="https://img.shields.io/badge/-Abuabdurrahman-darkblue?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/abuabdu46060974" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/abuabdu46060974" target="_blank"><img src="https://img.shields.io/badge/-Abuabdurrahman Abdulbasit-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </p>
 
