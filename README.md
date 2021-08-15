@@ -21,7 +21,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Node.js](https://img.shields.io/badge/express-js?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-   ![React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=reactnative)
+   ![ReactNative](https://img.shields.io/badge/-Reactnative-333333?style=flat&logo=reactnative)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
