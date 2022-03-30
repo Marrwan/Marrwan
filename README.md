@@ -23,7 +23,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-   ![ReactNative](https://img.shields.io/badge/-React-Native-333333?style=flat&logo=react)
+   ![ReactNative](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
