@@ -12,6 +12,9 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=007396)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity&logoColor=007396)
+  ![Move](https://img.shields.io/badge/-Move-333333?style=flat&logo=Move&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
