@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Full MERN Stack Developer ;
-- 🎓 &nbsp; Studying Physiology at University of Ibadan ;
-- 🌱 &nbsp; Learing Web Development and Medics in deep;
+- 🎓 &nbsp; Studying Physiology at university of Ibadan ;
+- 🌱 &nbsp; Learning Web Development and Medics in deep;
 - ✍️ &nbsp; Learning App and Software Development ;
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
@@ -23,12 +23,10 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Node.js](https://img.shields.io/badge/express-js?style=flat&logo=node.js)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-   ![ReactNative](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/django?style=flat&logo=django)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postgresql](https://img.shields.io/badge/postgresql?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
