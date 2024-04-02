@@ -23,10 +23,10 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Node.js](https://img.shields.io/badge/express-js?style=flat&logo=node.js)
-  ![Django](https://img.shields.io/badge/django?style=flat&logo=django)
+  ![Django](https://img.shields.io/badge/Django?style=flat&logo=Django)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Postgresql](https://img.shields.io/badge/postgresql?style=flat&logo=postgresql)
+  ![Postgresql](https://img.shields.io/badge/postgres?style=flat&logo=postgres)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
