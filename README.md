@@ -12,7 +12,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🔭 &nbsp; I am a **Full MERN Stack Developer** with over 5 years of experience.
-- 🎓 &nbsp; Studying **Physiology** at the University of Ibadan.
+- 🎓 &nbsp; Studied **Physiology** at the University of Ibadan.
 - 🌱 &nbsp; Passionate about **Web Development**, **Software Engineering**, and **Blockchain Development**.
 - ✍️ &nbsp; Continuously learning and contributing to the tech community.
 - 🤝 &nbsp; Open to collaborations in **Web Development** and **AI-based projects**.
